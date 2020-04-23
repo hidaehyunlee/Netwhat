@@ -6,9 +6,9 @@ Netwhat will allow you to discover the network and to learn about its inner work
 
 ## 2. What is ...
 
-아래의 개념들을 공부하면서 링크된 블로그에 정리해두었다.
+아래의 개념들을 공부하고, 링크된 블로그에 정리해두었다.
 
-- What is an IP address 
+- [What is an IP address](https://velog.io/@hidaehyunlee/IP-address%EB%9E%80)
 - What is a Netmask 
 - What is the subnet of an IP with Netmask 
 - What is the broadcast address of a subnet  
