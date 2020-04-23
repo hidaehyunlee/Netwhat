@@ -4,7 +4,9 @@ Netwhat will allow you to discover the network and to learn about its inner work
 
 
 
-## 2. What is...
+## 2. What is ...
+
+아래의 개념들을 공부하면서 링크된 블로그에 정리해두었다.
 
 - What is an IP address 
 - What is a Netmask 
