@@ -17,7 +17,7 @@ Netwhat will allow you to discover the network and to learn about its inner work
 - [What is a class of IP addresses](https://velog.io/@hidaehyunlee/IP-address%EB%9E%80)
 - What is TCP ◦ What is UDP 
 - What are the network layers 
-- What is the OSI model .....
+- [What is the OSI model](https://velog.io/@hidaehyunlee/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%A0%84%EB%8B%AC%EB%90%98%EB%8A%94-%EC%9B%90%EB%A6%AC-OSI-7%EA%B3%84%EC%B8%B5-%EB%AA%A8%EB%8D%B8%EA%B3%BC-TCPIP-%EB%AA%A8%EB%8D%B8)
 - What is a DHCP server and the DHCP protocol 
 - What is a DNS server and the DNS protocol 
 - What are the rules to make 2 devices communicate using IP addresses 
