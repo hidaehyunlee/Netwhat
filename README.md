@@ -15,7 +15,7 @@ Netwhat will allow you to discover the network and to learn about its inner work
 - [What are the diﬀerent ways to represent an ip address with the Netmask](https://velog.io/@hidaehyunlee/%EC%84%9C%EB%B8%8C%EB%84%B7%ED%8C%85subnetting%EC%9C%BC%EB%A1%9C-%EB%84%A4%ED%81%AC%EC%9B%8C%ED%81%AC%EB%A5%BC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EC%9E%90)
 - [What are the diﬀerences between public and private IPs](https://velog.io/@hidaehyunlee/%EA%B3%B5%EC%9D%B8Public-%EC%82%AC%EC%84%A4Private-IP%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90) 
 - [What is a class of IP addresses](https://velog.io/@hidaehyunlee/IP-address%EB%9E%80)
-- What is TCP ◦ What is UDP 
+- [What is TCP ◦ What is UDP](https://velog.io/@hidaehyunlee/TCP-%EC%99%80-UDP-%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - What are the network layers 
 - [What is the OSI model](https://velog.io/@hidaehyunlee/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%A0%84%EB%8B%AC%EB%90%98%EB%8A%94-%EC%9B%90%EB%A6%AC-OSI-7%EA%B3%84%EC%B8%B5-%EB%AA%A8%EB%8D%B8%EA%B3%BC-TCPIP-%EB%AA%A8%EB%8D%B8)
 - What is a DHCP server and the DHCP protocol 
