@@ -21,6 +21,6 @@ Netwhat will allow you to discover the network and to learn about its inner work
 - [What is a DHCP server and the DHCP protocol](https://velog.io/@hidaehyunlee/%EB%8D%94-%ED%8E%B8%EB%A6%AC%ED%95%9C-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%84-%EC%9C%84%ED%95%B4-DHCP-DNS-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C) 
 - [What is a DNS server and the DNS protocol](https://velog.io/@hidaehyunlee/%EB%8D%94-%ED%8E%B8%EB%A6%AC%ED%95%9C-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%84-%EC%9C%84%ED%95%B4-DHCP-DNS-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)
 - What are the rules to make 2 devices communicate using IP addresses 
-- How does routing work with IP 
+- [How does routing work with IP](https://velog.io/@hidaehyunlee/IP-%EB%9D%BC%EC%9A%B0%ED%8C%85routing-%EB%8F%99%EC%9E%91-%EA%B3%BC%EC%A0%95)
 - What is a default gateway for routing 
 - What is a port from an IP point of view and what is it used for when connecting to another device
