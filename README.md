@@ -27,7 +27,7 @@ Netwhat will allow you to discover the network and to learn about its inner work
 
 ## 3. [연습문제 정리](https://velog.io/@hidaehyunlee/Netwhat-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-%EC%A0%95%EB%A6%AC)
 
-1. IP adress
+1. IP adress </br>
    선행지식
    1.1. IP주소 크기 구하기
    1.2. IP주소 클래스 구하기
