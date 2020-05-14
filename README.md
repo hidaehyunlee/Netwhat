@@ -28,21 +28,21 @@ Netwhat will allow you to discover the network and to learn about its inner work
 ## 3. [연습문제 정리](https://velog.io/@hidaehyunlee/Netwhat-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-%EC%A0%95%EB%A6%AC)
 
 1. IP adress
-선행지식
-1.1. IP주소 크기 구하기
-1.2. IP주소 클래스 구하기
+   선행지식
+   1.1. IP주소 크기 구하기
+   1.2. IP주소 클래스 구하기
 2. Subnetting
-선행지식
-2.1 서브넷마스크 표기법
-2.2. 네트워크/브로드캐스트 주소 구하기
-2.3. 호스트 주소 수 구하기
-2.4. 호스트주소 범위 구하기
+   선행지식
+   2.1 서브넷마스크 표기법
+   2.2. 네트워크/브로드캐스트 주소 구하기
+   2.3. 호스트 주소 수 구하기
+   2.4. 호스트주소 범위 구하기
 3. Public/Private IP address
-선행지식
-3.1. 사설 IP주소 고르기
+   선행지식
+   3.1. 사설 IP주소 고르기
 4. Transport Layer
-선행지식
-4.1. TCP/UDP 특징
+   선행지식
+   4.1. TCP/UDP 특징
 5. Application Layer
-선행지식
-5.1. DNS/DHCP 특징
+   선행지식
+   5.1. DNS/DHCP 특징
